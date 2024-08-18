@@ -1,5 +1,5 @@
 # Twitter Sentimental Analysis
-### Sentiment analysis on 1.6 milion tweets
+### Sentiment analysis on 1.6 m tweets
 
 - Find the dataset here: https://www.kaggle.com/twitter-sentimental-analysis/data 
 
